@@ -78,7 +78,7 @@ section {
     display: flex;
     /* width: 200px;
     height: 300px;
-    object-fit: cover;
-    flex-basis: 5%; */
+    /* object-fit: cover;
+    flex-basis: 5%; */  
     justify-content: space-around;
 }
